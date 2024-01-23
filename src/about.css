@@ -1,0 +1,15 @@
+.about-banner{
+    background-size: cover;
+    height: 90vh;
+
+
+}
+.about-header{
+    padding: 150px;
+
+}
+.btn{
+    background: #199A4E;
+    color: white;
+}
+

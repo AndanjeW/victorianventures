@@ -1,0 +1,62 @@
+.navbar{
+background: #199A4E;
+
+}
+.navbar-nav{
+    margin-left: 50%;
+}
+.nav-link {
+    color: white;
+}
+
+.logo{
+    border-radius: 15px;
+    width: 120px ;
+    height: auto;
+}
+.banner-header{
+    background: white;
+    color: #199A4E;
+    font-size: 68px;
+}
+.btn{
+    background: #199A4E;
+    color: white;
+}
+
+.brands{
+    background: #199A4E;
+    padding: 30px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+}
+
+.about-brand{
+    text-align: center;
+    margin: 20px;
+    
+}
+
+.brand-logo{
+    max-width: 200px;
+    border-radius: 15px;
+    
+}
+
+.feedback-container{
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+
+.feedback{
+    padding-top: 50px;
+}
+
+
+footer{
+    background: #199A4E;
+    padding: 30px;
+}
