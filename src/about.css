@@ -1,11 +1,16 @@
 .about-banner{
     background-size: cover;
     height: 90vh;
+    text-align: center;
+    
+    
 
 
 }
 .about-header{
-    padding: 150px;
+    padding-top: 300px;
+    font-size: 68px;
+    color: #199A4E;
 
 }
 .btn{
@@ -13,3 +18,6 @@
     color: white;
 }
 
+.reasons{
+    font-size: 13px;
+}
