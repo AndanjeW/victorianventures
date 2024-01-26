@@ -1,3 +1,11 @@
+h1{
+    color: #9A191A;
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 20px;
+}
+.nav-link {
+    color: white;
+}
 .about-banner{
     background-size: cover;
     height: 90vh;
@@ -17,7 +25,39 @@
     background: #199A4E;
     color: white;
 }
-
+.section{
+    margin-top: 50px;
+}
 .reasons{
     font-size: 13px;
+    margin-top: 25px;
+}
+    #community-empowerment{
+        background: #199A4E;
+        border-radius: 15px;
+        padding: 10px;
+    }
+    .mission{
+        margin-left: 60px;
+    }
+.mission img {
+    height: 50%;
+
+}
+.mission h1{
+text-align: left;
+}
+.mission p{
+    text-wrap: balance
+}
+.values{
+    margin-bottom: 20px;
+}
+.values img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: auto;
+    
 }

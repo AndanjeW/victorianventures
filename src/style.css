@@ -60,3 +60,12 @@ footer{
     background: #199A4E;
     padding: 30px;
 }
+.contact-details{
+    list-style-type: none;
+    padding: 0;
+}
+.menu-items{
+    list-style-type: none;
+    padding-left: 0;
+    
+}

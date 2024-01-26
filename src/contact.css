@@ -1,0 +1,64 @@
+h1{
+text-align: left;
+color: white;
+font-weight: bold;
+font-family: sans-serif;
+}
+.our-contacts{
+    margin-top: 10px;
+    background: #199A4E;
+    padding-top: 60px;
+    margin-right: 40px;
+    padding-left: 40px;
+
+}
+.contact-us{
+    list-style-type: none;
+    padding-left: 0;
+    font-size: 16px;
+    
+}
+.contact-form{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.fcf-form-control{
+    background: #199A4E;
+}
+input[type=text], select, textarea {
+    width: 60%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  input[type=email], select, textarea {
+    width: 60%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+  }
+  input[type=submit] {
+    background-color: #5DADE2;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  #fcf-button{
+    border: 1px solid #199A4E;
+    border-radius: 5px;
+    margin-top: 6px;
+    margin-bottom: 50px;
+    padding: 5px 15px 5px 15px ;
+
+
+  }
