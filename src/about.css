@@ -6,6 +6,10 @@ h1{
 .nav-link {
     color: white;
 }
+.btn:hover {
+    background-color:#9A191A;
+    color: white;
+}
 .about-banner{
     background-size: cover;
     height: 90vh;

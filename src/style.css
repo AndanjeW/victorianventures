@@ -30,9 +30,7 @@ background: #199A4E;
     
   }
   
-  .social li{
-    
-  }
+  
   .social li a {
     display: block;
     color: #efefef;
@@ -70,6 +68,7 @@ background: #199A4E;
 .brands{
     background: #199A4E;
     padding: 30px;
+    padding-bottom: 80px;
 }
 .carousel-item { 
     transition-duration: 1s;
@@ -86,6 +85,7 @@ h1{
 .about-brand{
     text-align: center;
     margin: 20px;
+    padding-bottom: 20px;
     
 }
 
@@ -95,12 +95,23 @@ h1{
     margin-left: 10px;
     
 }
+.brand-header{
+    font-size: 15px;
+}
+.brand-subheader{
+    font-size: 14px;
+}
 .product-summary{
     font-size: 13px;
     text-wrap: balance;
     margin-top: 20px;
 }
-
+.why-header{
+    color: #199A4E;
+    font-style: italic;
+    padding-bottom: 20px;
+    
+}
 .card-link{
     text-decoration: none;
     color: #199A4E;
@@ -108,7 +119,7 @@ h1{
 
 
 .feedback-container{
-    margin-top: 50px;
+    margin-top: 100px;
     padding-bottom: 50px;
 }
 
@@ -125,20 +136,25 @@ footer{
     list-style-type: none;
     padding: 0;
 }
-.menu-items{
+.menu-items {
     list-style-type: none;
     padding-left: 0;
-    text-decoration: none;
-    
-    
 }
-.footer-social{
+
+.menu-items li a {
+    text-decoration: none;
+    color: inherit; 
+}
+
+.footer-social {
     font-size: 18px;
+}
+
+.footer-social a {
     text-decoration: none;
     color: black;
+}
 
-    }
-
-    .footer-social .fa-facebook{
-        padding-right: 10px;
-    }
+.footer-social .fa-facebook {
+    padding-right: 10px;
+}
