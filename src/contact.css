@@ -10,17 +10,20 @@ font-family: sans-serif;
     padding-top: 60px;
     margin-right: 40px;
     padding-left: 40px;
+    height: 400px;
+    border-radius: 10px;
 
 }
 .contact-us{
     list-style-type: none;
     padding-left: 0;
     font-size: 16px;
+   
     
 }
 .contact-form{
     margin-left: 40px;
-    margin-top: 40px;
+    margin-top: 60px;
 }
 .fcf-form-control{
     background: #199A4E;
