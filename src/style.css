@@ -30,23 +30,36 @@ background: #199A4E;
     
   }
   
-  
   .social li a {
     display: block;
     color: #efefef;
     border-radius: 15px;
     text-decoration: none;
     line-height: 30px;
-    width: 30px;
+    width: 40px;
     font-size: 18px;
+    transition: padding-left 0.3s ease, margin-left 0.3s ease; 
   }
   
-
-  .social li:hover {
-   padding-right: 20px;
-   background: #9A191A;
-   cursor: pointer;
+  .social li .fb a {
+    background: #316FF6;
   }
+  
+  .social li .ig a {
+    background: #8A3AB9;
+  }
+  
+  .social li .em a {
+    background: #199A4E;
+    
+  }
+  
+  .social li a:hover {
+    padding-left: 10px;
+    cursor: pointer;
+  }
+  
+  
   
 .banner-area{
     margin-top: 10px;
@@ -92,8 +105,7 @@ h1{
     max-width: 300px;
     border-radius: 15px;
 }
-.brand-header{
-}
+
 
 .product-summary{
     margin-top: 20px;
