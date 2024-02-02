@@ -93,11 +93,9 @@ h1{
     border-radius: 15px;
 }
 .brand-header{
-    font-size: 15px;
 }
 
 .product-summary{
-    text-wrap: balance;
     margin-top: 20px;
 }
 .why-header{
@@ -152,9 +150,13 @@ footer{
     padding-right: 10px;
 }
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
+    .brand-header{
+        text-align: center;
+    }
+    .brand-subheader
     .product-summary{
         display: none;
     }
-    }
+    } */
 
