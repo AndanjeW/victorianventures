@@ -63,3 +63,21 @@ input[type=text], select, textarea {
 
 
   }
+
+  @media only screen and (max-width: 600px) {
+    .contact-img{
+      display: none;
+    }
+
+
+  
+  
+ 
+
+  
+
+  
+
+
+
+}
