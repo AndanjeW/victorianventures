@@ -66,20 +66,19 @@ background: #199A4E;
     
 }
 .brands{
-    background: #199A4E;
     padding: 30px;
     padding-bottom: 80px;
 }
 .carousel-item { 
     transition-duration: 1s;
-   
+   object-fit: cover;
     
 }
 
 h1{
     text-align: center;
     margin-top: 50px;
-    color: white;
+    color: #9A191A;
 }
 
 .about-brand{
@@ -90,10 +89,8 @@ h1{
 }
 
 .brand-logo{
-    max-width: 100px;
+    max-width: 200px;
     border-radius: 15px;
-    margin-left: 10px;
-    
 }
 .brand-header{
     font-size: 15px;
@@ -107,7 +104,6 @@ h1{
     margin-top: 20px;
 }
 .why-header{
-    color: #199A4E;
     font-style: italic;
     padding-bottom: 20px;
     

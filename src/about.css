@@ -33,11 +33,9 @@ h1{
     margin-top: 50px;
 }
 #reasons{
-    font-size: 13px;
     margin-top: 25px;
 }
     #community-empowerment{
-        background: #199A4E;
         border-radius: 15px;
         padding: 10px;
     }
@@ -53,6 +51,11 @@ text-align: left;
 }
 .mission p{
     text-wrap: balance
+}
+.mission-area{
+  width: 500px;
+  height: 500px;
+  border: 1px solid #199A4E;
 }
 .values{
     margin-bottom: 20px;

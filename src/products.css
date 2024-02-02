@@ -1,27 +1,23 @@
 
+
 h2{
     font-family: 'Playfair Display', serif;
-    color: #ED3435;
+    color: #199A4E;
     font-style: italic;
     font-size: 25px;
 }
 .product-name{
     font-weight: bold;
     font-size: 40px;
-    color: #199A4E;
-    padding-bottom: 20px;
+    text-align: left;
 }
 
 .product-info{
     padding: 80px;
     
 }
-.product-background{
-    background: #199A4E;
-}
-.product-background .product-name{
-    color: white;
-}
+
+
 footer{
     margin-top: 40px;
 }
