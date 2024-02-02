@@ -163,10 +163,9 @@ footer{
 }
 
  @media only screen and (max-width: 600px) {
-    .nav-link .active {
-        padding-right:50%;
-        padding-left:50%;
-        
-      }
+    
+    .nav-item{
+        padding-left: 100px;
+    }
     } 
 
