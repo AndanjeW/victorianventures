@@ -40,12 +40,12 @@ h1{
         padding: 10px;
     }
     .mission{
-        height: 450px;
      margin-left: 60px;
+     padding-top: 50px;
     }
 .mission img {
-    height: 50%;
-
+width: 300px;
+height: 300px;
 }
 .mission h1{
 text-align: left;
@@ -72,6 +72,6 @@ text-align: left;
     
     }
     .values{
-        margin-top: 50px;
+        
     }
 }
