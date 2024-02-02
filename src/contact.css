@@ -3,6 +3,10 @@ text-align: left;
 font-weight: bold;
 font-family: sans-serif;
 }
+.contact-header{
+  margin-left: 40px;
+}
+
 .our-contacts{
     margin-top: 10px;
     padding-top: 60px;

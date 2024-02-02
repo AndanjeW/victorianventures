@@ -40,7 +40,8 @@ h1{
         padding: 10px;
     }
     .mission{
-        margin-left: 60px;
+        height: 450px;
+        border: 1px solid rgb(128, 128, 140)  ;
     }
 .mission img {
     height: 50%;
@@ -52,9 +53,7 @@ text-align: left;
 .mission p{
     text-wrap: balance
 }
-.mission-area{
- 
-}
+
 .values{
     margin-bottom: 20px;
 }

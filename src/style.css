@@ -95,16 +95,13 @@ h1{
 .brand-header{
     font-size: 15px;
 }
-.brand-subheader{
-    font-size: 14px;
-}
+
 .product-summary{
-    font-size: 13px;
     text-wrap: balance;
     margin-top: 20px;
 }
 .why-header{
-    font-style: italic;
+    
     padding-bottom: 20px;
     
 }
