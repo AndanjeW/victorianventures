@@ -41,7 +41,7 @@ h1{
     }
     .mission{
         height: 450px;
-        border: 1px solid rgb(128, 128, 140)  ;
+     margin-left: 60px;
     }
 .mission img {
     height: 50%;
@@ -65,3 +65,9 @@ text-align: left;
     width: auto;
     
 }
+
+@media only screen and (max-width: 600px) {
+    .mission{
+       
+     margin-left: 0;
+    }}
