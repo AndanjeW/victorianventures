@@ -162,13 +162,10 @@ footer{
     padding-right: 10px;
 }
 
-/* @media only screen and (max-width: 600px) {
-    .brand-header{
-        text-align: center;
-    }
-    .brand-subheader
-    .product-summary{
-        display: none;
-    }
-    } */
+ @media only screen and (max-width: 600px) {
+    .nav-item .active {
+        padding: 10px;
+        
+      }
+    } 
 
