@@ -173,5 +173,10 @@ footer{
     .about-brand{
         text-align: left;
     }
-    } 
+    
+    .feedback-container{
+        margin-top: 20;
+        
+    }
+}
 
