@@ -72,12 +72,15 @@ input[type=text], select, textarea {
     .all-contacts{
       display: none;
     }
-
+.social{
+  display: none;
+}
 
   
   
  
-
+   
+  }
   
 
   
