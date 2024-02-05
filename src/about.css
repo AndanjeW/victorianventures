@@ -12,8 +12,9 @@ h1{
 }
 .about-banner{
     background-size: cover;
-    height: 90vh;
+    height: 90dvh;
     text-align: center;
+    background-image: url('/src/assets/ALL-PRODUCTS-03022024.jpg');
     
     
 
