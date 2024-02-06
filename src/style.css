@@ -149,6 +149,11 @@ footer{
     text-decoration: none;
     color: inherit; 
 }
+.menu-items li a:hover {
+    background: white; 
+    padding: 5px;
+    border-radius: 10px;
+}
 
 .footer-social {
     font-size: 18px;
@@ -158,7 +163,11 @@ footer{
     text-decoration: none;
     color: black;
 }
-
+.footer-social a:hover {
+    background: white; 
+    padding: 3px;
+    border-radius: 10px;
+}
 .footer-social .fa-facebook {
     padding-right: 10px;
 }

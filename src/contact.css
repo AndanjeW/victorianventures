@@ -4,9 +4,12 @@ font-weight: bold;
 font-family: sans-serif;
 }
 .contact-header{
-  margin-left: 40px;
+ margin-left: 40px;
 }
+.contact-img{
 
+  margin-left: 100px;
+}
 .our-contacts{
     margin-top: 10px;
     padding-top: 60px;
