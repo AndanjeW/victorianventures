@@ -37,6 +37,10 @@ footer{
     .product-info{
         padding: 20px;
     }
+    .products-banner{
+       
+        height: 40dvh;
+    }
     .product-header{
         display: none;
     }
