@@ -67,17 +67,21 @@ background: #199A4E;
 
 
 .banner-header{
-    background: rgb(255,255,255, 0.6);
+    padding-top: 0;
+    text-align: center;
+}
+.product-header{
     color: #199A4E;
     font-size: 68px;
 }
 .btn{
     background: #199A4E;
     color: white;
+   
 }
 .btn:hover {
     background-color:#9A191A;
-    
+    color: white;
 }
 
 .carousel-item { 
