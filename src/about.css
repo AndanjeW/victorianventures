@@ -3,10 +3,9 @@ h1{
     color: #9A191A;
     font-family: 'Playfair Display', serif;
     margin-bottom: 20px;
+    font-weight: bold;
 }
-h5{
-    color: #9A191A;
-}
+
 .nav-link {
     color: white;
 }
@@ -37,15 +36,21 @@ h5{
 .section{
     margin-top: 50px;
 }
+.card-title{
+    color: #199A4E;
+}
 #reasons{
     margin-top: 25px;
+}
+#reasons h5{
+    color: #199A4E;
 }
     #community-empowerment{
         border-radius: 15px;
         padding: 10px;
     }
     .mission{
-     margin-left: 60px;
+     margin-left: 130px;
      padding-top: 50px;
     }
 .mission img {
@@ -66,8 +71,9 @@ text-align: left;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;
-    width: auto;
+    width: 250px;
+    height: 250px;
+    
     
 }
 
