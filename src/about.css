@@ -76,12 +76,16 @@ text-align: left;
     
     
 }
+.values p{
+    text-align: center;
+}
+
 
 @media only screen and (max-width: 600px) {
     .about-banner{
-        height: 40dvh;
-        width: 100%;
-    
+        height: 30dvh;
+        background-size: 400px;
+       
     }
     .mission{
      margin-left: 0;
@@ -89,5 +93,15 @@ text-align: left;
     }
     .section{
         margin-top: 0;
+    }
+    .value-list{
+        margin-top: -15px;
+    }
+    .core-values-header{
+        text-align: left;
+        margin-left: 10px;
+    }
+    .values p{
+        text-align: left;
     }
 }

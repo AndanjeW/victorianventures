@@ -44,8 +44,10 @@ footer{
         padding: 20px;
     }
     .products-banner{
-       width: 100%;
-        height: 40dvh;
+        height: 30dvh;
+        background-size: 550px;
+       
+
     }
     .product-header{
         display: none;
